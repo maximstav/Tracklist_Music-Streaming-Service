@@ -13,7 +13,19 @@
 
 ---
 
-## 📖 Project Overview
+## � Demo / Preview
+
+> *These previews demonstrate the frontend client actively consuming the backend REST API, handling JWT sessions, and streaming media via S3.*
+
+| | |
+|:---:|:---:|
+| <img src="./docs/images/01-auth.png" alt="JWT Authentication" width="400"/> <br/> **1. Stateless JWT Auth Flow** | <img src="./docs/images/02-catalog.png" alt="Catalog" width="400"/> <br/> **2. Complex Relational Data Retrieval** |
+| <img src="./docs/images/03-streaming.png" alt="Streaming" width="400"/> <br/> **3. S3 Presigned URL Media Streaming** | <img src="./docs/images/04-upload.png" alt="Upload" width="400"/> <br/> **4. Direct-to-S3 Upload Flow** |
+| <img src="./docs/images/05-search.png" alt="Search" width="400"/> <br/> **5. Unified JPA Catalog Search** | <img src="./docs/images/06-playlists.png" alt="Playlists" width="400"/> <br/> **6. Playlist State Persistence** |
+
+---
+
+## �📖 Project Overview
 
 **Tracklist** is a comprehensive, full-stack music streaming application designed to demonstrate robust backend engineering, secure media delivery, and a dynamic, responsive user interface. 
 
