@@ -19,7 +19,7 @@
 
 The project emphasizes **scalability, clean architecture, and modern best practices**, serving as a showcase of a production-ready system capable of handling complex relational data, authenticated user sessions, and large media files efficiently.
 
-> **Note to Reviewers:** The core technical strength of this project lies in the **Backend API**. It features advanced entity mapping, stateless JWT authentication, and offloads heavy media streaming directly to AWS S3 using short-lived Presigned URLs.
+> **Note:** The core technical strength of this project lies in the **Backend API**. It features advanced entity mapping, stateless JWT authentication, and offloads heavy media streaming directly to AWS S3 using short-lived Presigned URLs.
 
 ---
 
