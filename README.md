@@ -12,8 +12,16 @@
 </p>
 
 ---
+## 📖 Project Overview
 
-## � Demo / Preview
+**Tracklist** is a comprehensive, full-stack music streaming application designed to demonstrate robust backend engineering, secure media delivery, and a dynamic, responsive user interface. 
+
+The project emphasizes **scalability, clean architecture, and modern best practices**, serving as a showcase of a production-ready system capable of handling complex relational data, authenticated user sessions, and large media files efficiently.
+
+> **Note:** The core technical strength of this project lies in the **Backend API**. It features advanced entity mapping, stateless JWT authentication, and offloads heavy media streaming directly to AWS S3 using short-lived Presigned URLs.
+
+---
+## Demo / Preview
 
 > *These previews demonstrate the frontend client actively consuming the backend REST API, handling JWT sessions, and streaming media via S3.*
 
@@ -24,17 +32,6 @@
 | <img src="./docs/images/05-search.png" alt="Search" width="400"/> <br/> **5. Unified JPA Catalog Search** | <img src="./docs/images/06-playlists.png" alt="Playlists" width="400"/> <br/> **6. Playlist State Persistence** |
 
 ---
-
-## �📖 Project Overview
-
-**Tracklist** is a comprehensive, full-stack music streaming application designed to demonstrate robust backend engineering, secure media delivery, and a dynamic, responsive user interface. 
-
-The project emphasizes **scalability, clean architecture, and modern best practices**, serving as a showcase of a production-ready system capable of handling complex relational data, authenticated user sessions, and large media files efficiently.
-
-> **Note:** The core technical strength of this project lies in the **Backend API**. It features advanced entity mapping, stateless JWT authentication, and offloads heavy media streaming directly to AWS S3 using short-lived Presigned URLs.
-
----
-
 ## 🏗️ Project Structure
 
 This repository is a monorepo containing two distinct applications:
